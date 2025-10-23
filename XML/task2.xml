@@ -41,6 +41,17 @@
 
 <list>
 
+
+<name a="yellow" b="green">watermelon</name>
+<quantity a="needstock" b="stocked">12</quantity>
+<source a="schengen" b="notschengen">China</source>
+<price a="happyhours" b="normalhours">8</price>
+
+</list>
+
+
+<list>
+
 <name a="purple" b="yellow">Berry</name>
 <quantity a="needstock" b="stocked">7</quantity>
 <source a="schengen" b="notschengen">Poland</source>
