@@ -1,0 +1,8 @@
+[
+    { "id": 1, "type": "food", "name": "Tona", "price": 14, "availability": true },
+    { "id": 2, "type": "food", "name": "Mashroom", "price": 12, "availability": true },
+    { "id": 3, "type": "food", "name": "Chicken", "price": 15, "availability": false },
+    { "id": 4, "type": "drink", "name": "Pepsi", "price": 7, "availability": true },
+    { "id": 5, "type": "drink", "name": "kokakola", "price": 4, "availability": false },
+    { "id": 6, "type": "drink", "name": "fanta", "price": 6, "availability": true }
+  ]
