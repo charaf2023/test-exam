@@ -1,0 +1,13 @@
+{
+"food":"pizza",
+"origin":"italia",
+"price":13.5,
+"currency": "PLN",
+"number_of_types":8,
+"available_now":true,
+"types": ["tona", "chicken", "mashroom"],
+"main_operator": {
+    "name": "KingKebab",
+    "website": "https://king.kebab.pl"
+  }
+}
