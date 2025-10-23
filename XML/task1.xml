@@ -40,6 +40,15 @@
 
 <list>
 
+<name>watermelon</name>
+<quantity>14</quantity>
+<source>China</source>
+<price>7</price>
+
+</list>
+
+<list>
+
 <name>Berry</name>
 <quantity>7</quantity>
 <source>Poland</source>
