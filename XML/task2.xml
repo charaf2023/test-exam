@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodsandDrinks>
+
+<list>
+
+<name a="red" b="green">Apple</name>
+<quantity a="needstock" b="stocked">2</quantity>
+<source a="schengen" b="notschengen">France</source>
+<price a="happyhours" b="normalhours">5</price>
+
+</list>
+
+<list>
+
+<name a="yellow" b="green">Banana</name>
+<quantity a="needstock" b="stocked">10</quantity>
+<source a="schengen" b="notschengen">France</source>
+<price a="happyhours" b="normalhours">7</price>
+
+</list>
+
+<list>
+
+<name a="yellow" b="green">Pineapple</name>
+<quantity a="needstock" b="stocked">12</quantity>
+<source a="schengen" b="notschengen">Turkey</source>
+<price a="happyhours" b="normalhours">10</price>
+
+</list>
+
+<list>
+
+<name a="yellow" b="green">Dragonfruit</name>
+<quantity a="needstock" b="stocked">10</quantity>
+<source a="schengen" b="notschengen">China</source>
+<price a="happyhours" b="normalhours">15</price>
+
+</list>
+
+<list>
+
+<name a="purple" b="yellow">Berry</name>
+<quantity a="needstock" b="stocked">7</quantity>
+<source a="schengen" b="notschengen">Poland</source>
+<price a="happyhours" b="normalhours">2</price>
+
+</list>
+
+</foodsandDrinks>
